@@ -1,0 +1,18 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: marg
+ * Creation Date: 8 févr. 2022 at 09:41:59
+ *********************************************/
+
+minQuant = 100;
+
+assemblyDesk = 12;
+assemblyCellular = 24;
+paintingDesk = 30;
+paintingCellular = 24;
+
+maxHAssembly = 24000;
+maxHPainting = 29400;
+
+deskPrice = 12;
+cellularPrice = 20;
