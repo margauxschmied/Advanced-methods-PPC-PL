@@ -1,0 +1,38 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Arnaud Malapert
+ * Creation Date: 16 févr. 2022 at 14:06:16
+ *********************************************/
+ 
+n = 3;
+m = 4;
+
+demands = [
+[ 5300, 1200, 7400, 5300],
+[ 4500, 5400, 6500, 7200],
+[ 4400, 6700, 12500, 13200]
+];
+
+unitPrices = [124, 109, 115];
+//unitPrices = [124, 10900, 115]; // DEBUG
+
+activationCosts = [150000,150000,100000];
+//activationCosts = [0,150000,100000]; // DEBUG
+
+productionCosts = [73.30, 53.90, 65.40];
+//productionCosts = [73.30, 53.90, 6540]; // DEBUG
+
+productionQuotas = [500, 540, 550];
+// productionQuotas = [500, 1, 1]; // DEBUG
+
+minimumBatches = [20, 20, 16];
+//minimumBatches = [20, 20, 4500]; // DEBUG
+  
+storageCosts = [3.50, 4.00, 3.00];
+//storageCosts = [10000, 4.00, 3.00]; // DEBUG
+
+storageCapacity = 800;
+//storageCapacity = 0; // DEBUG
+ 
+productiveDays = [23, 20, 23, 22];
+ 

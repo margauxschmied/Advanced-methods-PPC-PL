@@ -4,11 +4,11 @@
  * Creation Date: 15 févr. 2022 at 09:43:46
  *********************************************/
 range N=1..3;
-range nbMois=1..4;
+range nbMois=1..5;
 
 dvar int+ A[nbMois][N];
 dvar boolean activated[nbMois][N];
-dvar int+ Astore[1..5][N];
+dvar int+ Astore[nbMois][N];
 dvar int+ vendu[nbMois][N];
 
 
@@ -25,10 +25,7 @@ int tabMois[nbMois][N]=...;
 float storagePrice[N]=...;
 int totalStorage=...;
 
-maximize sum (i in N) ((sum(j in 1..4 )vendu[j][i]*sellingPrice[i])-
-(sum(j in 1..4 )A[j][i]-productCost[i])-
-(sum(j in 1..4 )Astore[j][i]*storagePrice[i])-
-(sum(j in 1..4 )activated[j][i]*activityCost[i]));
+maximize sum (j in 1..4, i in N) ((vendu[j][i]*sellingPrice[i])-(A[j][i]-productCost[i])-(Astore[j][i]*storagePrice[i])-(activityCost[i]*activated[j][i]));
 
 subject to {
   forall (j in 1..4){
@@ -46,15 +43,15 @@ subject to {
 	  
 	}  
 	
-	forall(j in nbMois, i in N){
-		Astore[j][i]+A[j][i]==Astore[j+1][i]+vendu[j][i];
+	forall(j in nbMois: j>1, i in N){
+		Astore[j-1][i]+A[j-1][i]==Astore[j][i]+vendu[j][i];
 		vendu[j][i]<=tabMois[j][i];
 	}
 	
-	sum (i in N) Astore[1][i] == 0;
+	sum (i in N) Astore[5][i] == 0;
 	//sum (i in N) vendu[5][i] == 0;
-	//sum (i in N) vendu[1][i] == 0;
-	//sum (i in N) A[4][i] == 0;
+	sum (i in N) vendu[1][i] == 0;
+	sum (i in N) A[5][i] == 0;
 	
 	
   
