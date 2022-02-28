@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="Configuration 1" category="opl">
+			<ref name="Ex45.mod" type="model">
+			</ref>
+			<ref name="Ex45.dat" type="data">
+			</ref>
+			<ref name="Ex451.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

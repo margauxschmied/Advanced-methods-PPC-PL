@@ -1,0 +1,20 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 28 févr. 2022 at 10:58:58
+ *********************************************/
+
+int nbCar=...;
+range rangeNbCar=1..nbCar;
+float carSize[rangeNbCar]=...;
+
+dvar int+ A[rangeNbCar];
+
+minimize sum(i in rangeNbCar) A[i]*carSize[i];
+ 
+ subject to {
+   forall(i in rangeNbCar){
+     A[i]>=0;
+     A[i]<=1;
+   }
+ }

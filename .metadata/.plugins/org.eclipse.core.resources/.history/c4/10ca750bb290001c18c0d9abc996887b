@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 18 févr. 2022 at 12:28:05
+ *********************************************/
+int nbPorte=...;
+range nbPorteRange=1..nbPorte;
+boolean portes[nbPorteRange]=...;
+
+dvar int+ A[nbPorteRange][nbPorteRange];
+
+ 
+minimize sum(i in nbPorteRange, j in nbPorteRange) A[i][j];
+
+subject to{
+  
+}

@@ -1,0 +1,20 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 18 févr. 2022 at 12:28:05
+ *********************************************/
+int nbSalle=...;
+range nbSalleRange=1..nbSalle;
+int portes[nbSalleRange][nbSalleRange]=...;
+
+dvar int+ A[nbSalleRange][nbSalleRange];
+
+ 
+minimize sum(i in nbSalleRange, j in nbSalleRange:i!=j) A[i][j];
+
+subject to{
+  forall(j in nbSalleRange){
+  	sum(i in nbSalleRange: i!=j) portes[i][j]*A[i][j]>=1;
+	} 
+	 
+}

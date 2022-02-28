@@ -8,7 +8,7 @@ range nbMois=1..4;
 
 dvar int+ A[nbMois][N];
 dvar boolean activated[nbMois][N];
-dvar int+ Astore[1..5][N];
+dvar int+ Astore[nbMois][N];
 dvar int+ vendu[nbMois][N];
 
 
@@ -46,15 +46,15 @@ subject to {
 	  
 	}  
 	
-	forall(j in nbMois, i in N){
-		Astore[j][i]+A[j][i]==Astore[j+1][i]+vendu[j][i];
+	forall(j in nbMois: j>1, i in N){
+		Astore[j-1][i]+A[j][i]==Astore[j][i]+vendu[j][i];
 		vendu[j][i]<=tabMois[j][i];
 	}
 	
 	sum (i in N) Astore[1][i] == 0;
 	//sum (i in N) vendu[5][i] == 0;
-	//sum (i in N) vendu[1][i] == 0;
-	//sum (i in N) A[4][i] == 0;
+	sum (i in N) vendu[1][i] == 0;
+	sum (i in N) A[4][i] == 0;
 	
 	
   
