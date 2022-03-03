@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IloNewOplProjectWizard">
+		<item value="/home/margauxschmied/Documents/Advanced-methods-PPC-PL1" key="IloNewOplProjectWizard.STORE_ROOT_DIRECTORY"/>
+	</section>
+	<section name="IloNewRunConfigWizard">
+		<item value="false" key="IloNewRunConfigWizard.STORE_SET_AS_DEFAULT"/>
+	</section>
+</section>

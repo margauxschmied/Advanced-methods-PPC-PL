@@ -1,0 +1,28 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 1 mars 2022 at 11:06:00
+ *********************************************/
+
+ int nbTypePlaque = ...;
+ range typePlaques = 1..nbTypePlaque;
+ 
+ int largeurPlaqueRecu = ...;
+ int logueurPlaqueRecu = ...;
+ 
+ int minimumFabrication[typePlaques] =...;
+ int largeurVoulu[typePlaques] = ...;
+ 
+ dvar int+ A[typePlaques];
+ dvar float dechet;
+ 
+ minimize dechet;
+ 
+ subject to {
+   forall(i in typePlaques){
+     A[i]>=minimumFabrication[i];
+   }
+   dechet==sum(i in typePlaques) (A[i]*largeurVoulu[i])/largeurPlaqueRecu;
+ }
+ 
+ 

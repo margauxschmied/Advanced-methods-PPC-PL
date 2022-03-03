@@ -1116,3 +1116,809 @@ Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Do
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2022-02-28 12:10:19.231
 !MESSAGE Run Configuration 1 in /home/margauxschmied/opl/revision1
+!SESSION 2022-03-01 10:53:56.290 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 10:53:56.295
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 10:58:05.068 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 10:58:05.073
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 10:58:27.751 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 10:58:27.756
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:00:48.025 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:00:48.032
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:01:45.815 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:01:45.820
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:01:55.310 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:01:55.315
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:02:04.117 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:02:04.122
+!MESSAGE Run Ex1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:21:13.531 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:21:13.537
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:24:38.206 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:24:38.211
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:28:28.281 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:28:28.286
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:29:46.284 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:29:46.289
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:31:26.859 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:31:26.864
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:31:48.626 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:31:48.631
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:33:24.251 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:33:24.256
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:34:08.849 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:34:08.854
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:34:48.418 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:34:48.423
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:35:03.942 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:35:03.947
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:35:04.055
+!MESSAGE Unbounded model, try to disable presolve
+!SESSION 2022-03-01 11:50:00.401 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:50:00.406
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:50:20.252 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:50:20.258
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:52:22.246 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:52:22.251
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:52:22.348
+!MESSAGE Unbounded model, try to disable presolve
+!SESSION 2022-03-01 11:52:40.397 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:52:40.403
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:52:58.381 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:52:58.386
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:53:48.352 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:53:48.357
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:54:01.689 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:54:01.694
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:54:35.511 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:54:35.517
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:56:47.291 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:56:47.296
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 11:57:37.210 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 11:57:37.215
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:10:28.830 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:10:28.837
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:10:46.744 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:10:46.749
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:13:16.430 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:13:16.435
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:14:14.566 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:14:14.571
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:14:14.641
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-01 12:14:57.206 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:14:57.211
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:16:20.111 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:16:20.116
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:18:16.137 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:18:16.143
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:21:54.388 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:21:54.393
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:22:42.331 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:22:42.336
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:23:10.885 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:23:10.890
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:23:49.202 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:23:49.207
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:24:58.858 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:24:58.865
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:25:12.671 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:25:12.676
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:25:27.577 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:25:27.582
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:26:47.419 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:26:47.425
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:27:42.632 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:27:42.637
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:28:40.568 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:28:40.573
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:31:47.360 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:31:47.365
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:32:09.549 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:32:09.554
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:32:41.262 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:32:41.267
+!MESSAGE Run Ex3 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:43:39.350 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:43:39.355
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:46:36.102 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:46:36.109
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:46:36.188
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:46:36.189
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-01 12:54:30.510 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:54:30.515
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:54:30.577
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:54:30.578
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-01 12:54:53.119 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:54:53.124
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 12:58:43.688 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 12:58:43.693
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:58:43.763
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-01 12:58:43.763
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-01 13:11:36.746 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:11:36.753
+!MESSAGE Run Ex2bis in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-01 13:11:36.801
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-01 13:11:36.801
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-01 13:18:15.249 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:18:15.254
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 13:18:30.015 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:18:30.020
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 13:19:19.553 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:19:19.558
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-01 13:20:27.019 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:20:27.024
+!MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen

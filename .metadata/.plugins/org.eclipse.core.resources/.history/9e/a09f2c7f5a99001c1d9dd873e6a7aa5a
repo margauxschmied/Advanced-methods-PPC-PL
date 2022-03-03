@@ -1,0 +1,15 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: margauxschmied
+ * Creation Date: 1 mars 2022 at 11:06:12
+ *********************************************/
+
+ largeurPlaqueRecu = 200;
+ logueurPlaqueRecu = 500;
+ 
+ nbTypePlaque = 3;
+ 
+ minimumFabrication=[30, 40, 15]; 
+ //minimumFabrication = [1, 0, 0];  //pour la virification
+ largeurVoulu = [110, 75, 60];  
+ //largeurVoulu = [100, 75, 60];  //pour la virification

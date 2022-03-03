@@ -1,0 +1,28 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 1 mars 2022 at 12:02:59
+ *********************************************/
+
+ int nbPiece=...;
+ int nbTour=...;
+ 
+ range pieces=1..nbPiece;
+ range tours=1..nbTour;
+ 
+ int heure[pieces][tours]=...;
+ 		
+ int diponibilite[tours]=...;
+ 
+ int demande[pieces]=...;
+ 
+ dvar int+ A[pieces][tours];
+
+ 
+ minimize A[1][1];
+ 
+ subject to {
+   forall(i in pieces){
+     sum(j in tours) A[i][j]>=demande[i];
+   }
+ }

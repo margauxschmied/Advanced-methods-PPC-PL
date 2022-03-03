@@ -1,0 +1,30 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 1 mars 2022 at 10:47:06
+ *********************************************/
+
+int nbDigit=4;
+range digits=1..nbDigit;
+
+dvar int+ A[digits];
+
+ dexpr float cd = (A[3]*10)+A[4];
+ dexpr float ab = (A[1]*10)+A[2];
+ dexpr float da = (A[4]*10)+A[1];
+ dexpr float bc = (A[2]*10)+A[3];
+ 
+ minimize A[1];
+ 
+ subject to {
+   forall(i in digits){
+     A[i]<=9 && A[i]>=0;  
+ 	
+     forall(j in digits: i!=j){
+       A[i]!=A[j];
+     }
+   
+	}
+	cd*3==ab;
+	da*2==bc;
+ }
