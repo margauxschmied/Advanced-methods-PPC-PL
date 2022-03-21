@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: margauxschmied
+ * Creation Date: 8 mars 2022 at 09:28:19
+ *********************************************/
+
+ nbMounth=6;
+ demande=[900, 600, 500, 800, 900, 800];
+ nbWorker=40;
+ unitMounth=20;
+ addUnit=6;
+ costAddUnit=5;
+ storageCost=10;
+ variasionNbEployee=5;
+ costEmployee=500;
+ costDismiss=700;
+ 

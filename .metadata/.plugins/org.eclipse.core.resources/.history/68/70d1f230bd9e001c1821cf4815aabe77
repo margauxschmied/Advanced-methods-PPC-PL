@@ -1,0 +1,36 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 8 mars 2022 at 09:28:06
+ *********************************************/
+
+ int nbMounth=...;
+ range mounths=1..nbMounth;
+ 
+ int demande[mounths]=...;
+ int nbWorker=...;
+ int unitMounth=...;
+ int addUnit=...;
+ int costAddUnit=...;
+ int storageCost=...;
+ int variasionNbEployee=...;
+ int costEmployee=...;
+ int costDismiss=...;
+ 
+ dvar int+ stock[mounths];
+ dvar int+ employee[mounths];
+ dvar int+ employeePruduction[mounths];
+ dvar int+ production[mounths];
+ 
+ minimize sum(i in mounths)stock[i]*storageCost;
+ 
+ subject to {
+   forall(i in mounths){
+		production[i]+stock[i]>=demande[i];
+		
+		 
+   }
+   
+ }
+ 
+ 

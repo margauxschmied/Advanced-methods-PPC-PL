@@ -1,0 +1,52 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 8 mars 2022 at 09:28:06
+ *********************************************/
+
+ int nbMounth=...;
+ range mounths=1..nbMounth;
+ 
+ int demande[mounths]=...;
+ int nbWorker=...;
+ int unitMounth=...;
+ int addUnit=...;
+ int costAddUnit=...;
+ int storageCost=...;
+ int variasionNbEployee=...;
+ int costEmployee=...;
+ int costDismiss=...;
+ 
+ dvar int+ stock[mounths];
+ dvar int+ employee[mounths];
+ dvar int+ employeeExtra[mounths];
+ dvar int+ production[mounths];
+ 
+ dexpr int costStockEmployee=sum(i in mounths)(stock[i]*storageCost+employeeExtra[i]*costAddUnit);
+ dexpr int costEmploy=sum(i in mounths: i>1) ((employee[i]-employee[i-1])*costEmployee)*(employee[i]>=employee[i-1]);
+ dexpr int costDismis=sum(i in mounths: i>1) ((employee[i-1]-employee[i])*costDismiss)*(employee[i-1]>=employee[i]);
+ 
+ 
+ minimize costStockEmployee+costEmploy+costDismis;
+ 
+ subject to {
+   production[1]>=demande[1];
+   
+   forall(i in mounths){
+     	employee[i]<=nbWorker;
+     	production[i]==(employee[i]*unitMounth)+employeeExtra[i];
+     	employeeExtra[i]<=employee[i]*addUnit;
+     	//stock[i]>=0;
+   }
+   
+   forall(i in mounths: i>1){
+		(production[i]+stock[i-1])==demande[i];
+		employeeExtra[i]+stock[i-1]+production[i]==demande[i]+stock[i];
+		abs(employee[i]-employee[i-1])<=variasionNbEployee;
+   }
+   
+   stock[nbMounth]==0;
+   
+ }
+ 
+ 

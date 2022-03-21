@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="opl.launchType">
+<stringAttribute key="opl.debugModel.ATTR_ELEMENT_ID" value="=TP4RCon\figu\rations d'exécutionrCon\figu\ration 1"/>
+<stringAttribute key="opl.debugModel.ATTR_PROJECT" value="TP4"/>
+<stringAttribute key="opl.debugModel.ATTR_RUN_CONFIG" value="Configuration 1"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/TP4"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>

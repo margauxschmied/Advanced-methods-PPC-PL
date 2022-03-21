@@ -1922,3 +1922,1566 @@ Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Do
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-01 13:20:27.024
 !MESSAGE Run Ex2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/Examen
+!SESSION 2022-03-08 09:52:05.673 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:52:05.679
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 09:53:17.366 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:53:17.371
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:17.430
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:17.430
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:53:31.106 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:53:31.113
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:31.185
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:31.186
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:53:43.266 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:53:43.274
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:43.348
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:43.349
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:53:58.236 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:53:58.242
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:53:58.372
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:415)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:54:20.745 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:54:20.753
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:54:20.881
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:415)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:55:38.071 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:55:38.078
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 09:56:00.060 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:56:00.066
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 09:56:56.922 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:56:56.929
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:56:57.002
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:56:57.003
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:57:09.029 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:57:09.037
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 09:57:53.256 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:57:53.263
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:57:53.351
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 09:57:53.353
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 09:58:03.210 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:58:03.219
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 09:59:52.952 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 09:59:52.959
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:04:27.503 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:04:27.509
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:05:02.371 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:05:02.380
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:11:03.147 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:11:03.153
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:11:03.222
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:11:03.223
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:12:20.911 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:12:20.916
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:12:20.975
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:12:20.975
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:12:42.011 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:12:42.016
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:12:42.102
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:415)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:12:48.587 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:12:48.594
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:12:48.663
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:415)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:12:52.424 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:12:52.429
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:12:52.497
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_solveAlgorithm(Native Method)
+	at ilog.opl.IloOplModel.solveAlgorithm(IloOplModel.java:415)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:234)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:177)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:163)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:18:51.941 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:18:51.945
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:18:52.042
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:18:52.043
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:20:07.953 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:20:07.960
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:23:32.267 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:23:32.273
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:24:37.751 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:24:37.756
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:24:51.266 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:24:51.271
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:30:55.846 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:30:55.851
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:31:12.845 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:31:12.850
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:31:47.850 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:31:47.855
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:34:30.644 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:34:30.652
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:35:30.139 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:35:30.143
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:37:24.130 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:37:24.135
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:39:08.162 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:39:08.167
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:40:01.716 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:40:01.721
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:47:04.228 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:47:04.233
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:57:33.128 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:57:33.133
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:57:33.207
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:57:33.207
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 10:58:04.094 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:58:04.099
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 10:59:40.295 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 10:59:40.300
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:59:40.365
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 10:59:40.366
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 11:00:08.755 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 11:00:08.760
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 11:03:06.435 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 11:03:06.440
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 11:03:52.308 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 11:03:52.313
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 11:04:11.000 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 11:04:11.005
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:31:23.038 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:31:23.043
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:42:25.315 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:42:25.321
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:46:00.309 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:46:00.316
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:47:50.353 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:47:50.357
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:50:03.909 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:50:03.914
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:50:48.450 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:50:48.455
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 12:55:51.981 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 12:55:51.986
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:01:05.869 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:01:05.874
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:10:51.594 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:10:51.601
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:11:44.262 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:11:44.268
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:17:14.314 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:17:14.321
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:17:28.115 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:17:28.120
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:19:56.145 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:19:56.149
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:20:55.029 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:20:55.034
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:25:48.158 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:25:48.163
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:28:45.338 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:28:45.343
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:29:04.735 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:29:04.741
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:29:43.899 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:29:43.904
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:30:01.772 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:30:01.777
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:33:10.525 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:33:10.530
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-08 13:33:10.602
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-08 13:33:10.603
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-08 13:33:19.103 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:33:19.109
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-08 13:34:05.205 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-08 13:34:05.210
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP4
+!SESSION 2022-03-15 10:17:15.397 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:17:15.402
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:17:15.443
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:17:15.444
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:17:33.982 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:17:33.987
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:17:34.046
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:17:34.047
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:18:00.177 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:18:00.181
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:18:00.243
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:18:00.244
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:18:18.041 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:18:18.046
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:18:18.140
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:18:38.819 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:18:38.824
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:18:38.919
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:18:53.976 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:18:53.981
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:18:54.042
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:19:26.969 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:19:26.974
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:19:27.055
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:20:16.852 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:20:16.858
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:20:16.941
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:20:56.968 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:20:56.972
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+!SESSION 2022-03-15 10:23:27.922 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:23:27.928
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:23:28.001
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:23:28.002
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:24:13.566 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:24:13.571
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:24:13.639
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:24:13.640
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:24:31.955 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:24:31.960
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:24:32.038
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2022-03-15 10:24:32.039
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 10:25:36.515 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 10:25:36.520
+!MESSAGE Run Configuration 1 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+!SESSION 2022-03-15 12:51:05.827 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 12:51:05.832
+!MESSAGE Run Configuration 2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+!SESSION 2022-03-15 12:57:07.771 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 12:57:07.776
+!MESSAGE Run Configuration 2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 12:57:07.857
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 12:57:22.228 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 12:57:22.233
+!MESSAGE Run Configuration 2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2022-03-15 12:57:22.306
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Echec du traitement.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:562)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2022-03-15 12:57:36.066 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 12:57:36.071
+!MESSAGE Run Configuration 2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5
+!SESSION 2022-03-15 12:58:37.166 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pxa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration /home/margauxschmied/Documents/Advanced-methods-PPC-PL/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2022-03-15 12:58:37.171
+!MESSAGE Run Configuration 2 in /home/margauxschmied/Documents/Advanced-methods-PPC-PL1/TP5

@@ -1,0 +1,28 @@
+/*********************************************
+ * OPL 20.1.0.0 Model
+ * Author: margauxschmied
+ * Creation Date: 15 mars 2022 at 09:54:17
+ *********************************************/
+
+ int nbLink=...;
+ range links=1..nbLink;
+ 
+ int u1=...;
+ int u2=...;
+ 
+ int  requiredCapacity[links]=...;
+ int  cost1[links]=...;
+ 
+ int  cost2percentage=...;
+ 
+ dvar int+ link1[links];
+ dvar int+ link2[links];
+ 
+
+ 
+ minimize sum(i in links) (link1[i]*cost1[i]+link2[i]*((cost2percentage*cost1[i]/100)+cost1[i]));
+ 
+ subject to {
+	
+   
+ }
